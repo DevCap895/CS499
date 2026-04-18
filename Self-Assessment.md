@@ -1,6 +1,6 @@
-#CS499 Capstone 
+# CS499 Capstone 
 
-##Self-Assessment: Code Improvement and Technical Growth
+## Self-Assessment: Code Improvement and Technical Growth
 
 Throughout the development of my Course Planner application, I demonstrated a clear progression in both my technical skills and my understanding of software engineering best practices. The original implementation successfully met functional requirements by utilizing a binary search tree (BST) to store and retrieve course data efficiently. However, as I revisited and enhanced the project, I focused on improving performance, maintainability, scalability, and overall code quality.
 
